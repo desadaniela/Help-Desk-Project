@@ -5,5 +5,5 @@ A comprehensive home lab documenting Active Directory deployment, user managemen
 This repository is actively growing! Future documentation updates will include:
 * [x] Active Directory Infrastructure Setup (`DC01` & `WS01`)
 * [x] Tier-1 / Tier-2 Help Desk Ticket Simulations (Tasks 1, 2, 3)
-* [ ] Additional Group Policy deployments and security hardening *(Coming soon)*
+* [x] Additional Group Policy deployments and security hardening
 * [ ] Log analysis and security event monitoring *(Coming soon)*
